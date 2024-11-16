@@ -5,8 +5,7 @@ _Building bridges beyond words_
 An AI-powered platform designed to support primary school teachers in Indigenous communities. This project aims to facilitate interactive and bilingual teaching that honors and integrates Indigenous cultural elements into the classroom.
 
 ## Project Description
-This project uses an AI-based Language Model (LLM) specifically designed for primary school teachers in Indigenous communities. The platform includes lesson design tools, a bilingual dictionary, pronunciation practice, and a resource hub—all optimized to enhance learning and cultural preservation.
-
+The platform includes lesson design tools, a bilingual dictionary, pronunciation practice, and a resource hub—all optimized to enhance learning and cultural preservation.
 Built with React and hosted on Firebase.
 
 Features
