@@ -7,7 +7,7 @@ An platform designed to support primary school teachers in Indigenous communitie
 
 ## Project Description
 The platform includes lesson design tools, a bilingual dictionary, pronunciation practice, and a resource hub—all optimized to enhance learning and cultural preservation.
-Built with React and hosted on Firebase.
+Built with React, integrated OpenAI and Google Books API, and hosted on Firebase.
 
 Features
 - Interactive Lesson Design
